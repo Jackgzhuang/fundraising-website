@@ -42,7 +42,7 @@ Currently used at: [https://donations.triplecrownforheart.ca/team_fundraising/](
 
 1. Clone this repository:
 
-   `git clone https://github.com/dominikszopa/fundraising.git`
+   `git clone https://github.com/Jackgzhuang/fundraising-website.git`
    `cd fundraising`
 
 1. Install dependencies:
