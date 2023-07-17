@@ -44,7 +44,7 @@ Currently used at: [https://donations.triplecrownforheart.ca/team_fundraising/](
 
    `git clone https://github.com/Jackgzhuang/fundraising-website.git`
    `cd fundraising-website`
-   `cd fundraiser`
+
 
 1. Install dependencies:
 
